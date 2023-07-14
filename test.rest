@@ -1,0 +1,8 @@
+###
+GET http://localhost:4004/browse/Rounds/1
+
+###
+GET http://localhost:4004/browse/Holes('002')/round
+
+###
+GET http://localhost:4004/browse/Shots
